@@ -1,2 +1,6 @@
-演示
+public static void main(String[] args) {
+    sout("Hello world!");
+}
+
 auth: huang
+date: 2026
