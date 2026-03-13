@@ -1,6 +1,7 @@
-public static void main(String[] args) {
-    sout("Hello world!");
+public static void main(String args[]){
+	System.out.println("Hello world");
 }
 
 auth: huang
-date: 2026
+date: 2026  0311  14:46
+@lastest
