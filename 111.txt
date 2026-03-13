@@ -1,7 +1,2 @@
-public static void main(String args[]){
-	System.out.println("Hello world");
-}
-
-
+演示
 auth: huang
-created: 14:46
